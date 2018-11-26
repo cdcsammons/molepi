@@ -2,7 +2,7 @@
 Molecular Epidemiology Course Documents.
 This repo contains the course documents for the Molecular Epidemiology Course.
 
-Useful Links:
+<b>Useful Links:</b>
 
 Microreact:
   https://microreact.org
