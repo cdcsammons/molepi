@@ -1,6 +1,8 @@
 # molepi
 Molecular Epidemiology Course Documents.
-This repo contains the guide, links, and course documents for the Molecular Epidemiology Course.
+This repo contains the course documents for the Molecular Epidemiology Course.
+
+Useful Links:
 
 Microreact:
   https://microreact.org
